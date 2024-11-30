@@ -1,0 +1,5 @@
+[
+  {"user_id": 2, "action": "click", "timestamp": "2024-11-01T08:05:00"},
+  {"user_id": 4, "action": "login", "timestamp": "2024-11-01T08:15:00"},
+  {"user_id": 3, "action": "logout", "timestamp": "2024-11-01T08:20:00"}
+]
