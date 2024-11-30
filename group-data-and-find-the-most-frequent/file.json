@@ -1,0 +1,7 @@
+[
+  {"user_id": 1, "item": "book", "quantity": 2},
+  {"user_id": 2, "item": "pen", "quantity": 5},
+  {"user_id": 1, "item": "pen", "quantity": 3},
+  {"user_id": 2, "item": "book", "quantity": 1},
+  {"user_id": 1, "item": "book", "quantity": 1}
+]

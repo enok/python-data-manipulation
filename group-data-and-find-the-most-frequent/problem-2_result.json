@@ -1,0 +1,10 @@
+[
+    {
+        "user_id":1,
+        "most_purchased_item":"book"
+    },
+    {
+        "user_id":2,
+        "most_purchased_item":"pen"
+    }
+]
