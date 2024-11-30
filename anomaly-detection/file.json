@@ -1,0 +1,7 @@
+[
+  {"user_id": 1, "email": "user1@example.com", "timestamp": "2024-11-01T08:00:00"},
+  {"user_id": 2, "email": "user2@example.com", "timestamp": "2024-11-01T08:05:00"},
+  {"user_id": 1, "email": "user1@example.com", "timestamp": "2024-11-01T08:10:00"},
+  {"user_id": 3, "email": "user3@example.com", "timestamp": "2024-11-01T08:15:00"},
+  {"user_id": 2, "email": "user2@example.com", "timestamp": "2024-11-01T08:20:00"}
+]
