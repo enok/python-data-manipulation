@@ -1,0 +1,17 @@
+[
+    {
+        "user_id": 1,
+        "name": "Alice",
+        "age": 26,
+        "city": "New York"
+    },
+    {
+        "user_id": 2,
+        "name": "Bob"
+    },
+    {
+        "user_id": 3,
+        "name": "Charlie",
+        "city": "San Francisco"
+    }
+]
